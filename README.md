@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The webpage was built from ground up using react-components & JavaScript ES6 Templates. Especially learning to implement the JavaScript Arrow Functions.
+Also used Material MUI npm packages to use add icons & core components.
+
+```
+npm install @mui/material @emotion/react @emotion/styled
+```
+#### For Icons:
+```
+npm install @mui/icons-material
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
